@@ -1,13 +1,13 @@
 # mnist-neural-net
 A neural network that learns to classify handwritten digits via the popular MNIST dataset
 
-## Project Directory Structure
+## Required Project Directory Structure
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 mnist_train.csv
 mnist_test.csv
 previously_trained_nn.txt
 gson-2.8.6.jar (https://github.com/google/gson)
-README.txt
+README.md
 src/
   |--com
       |--mlme
