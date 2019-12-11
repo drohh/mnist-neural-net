@@ -5,7 +5,7 @@ A neural network that learns to classify handwritten digits via the popular MNIS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 mnist_train.csv
 mnist_test.csv
-previously_trained_nn.txt
+previously_trained_nn.txt (optional, only needed if loading a previously constructed network)
 gson-2.8.6.jar (https://github.com/google/gson)
 README.md
 src/
